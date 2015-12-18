@@ -1,4 +1,4 @@
 # Summary
 
-* Chapter2-UsingGitHub
+* [Chapter2-UsingGitHub](chapter2-usinggithub.md)
 
